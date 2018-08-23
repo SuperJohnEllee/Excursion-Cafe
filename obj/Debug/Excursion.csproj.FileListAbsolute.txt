@@ -1,0 +1,39 @@
+C:\Users\Gkid\Desktop\The Files\NoyNoy\Visual Studio\Excursion\Excursion\bin\Debug\Excursion.exe.config
+C:\Users\Gkid\Desktop\The Files\NoyNoy\Visual Studio\Excursion\Excursion\bin\Debug\Excursion.exe
+C:\Users\Gkid\Desktop\The Files\NoyNoy\Visual Studio\Excursion\Excursion\bin\Debug\Excursion.pdb
+C:\Users\Gkid\Desktop\The Files\NoyNoy\Visual Studio\Excursion\Excursion\obj\Debug\Excursion.Properties.Resources.resources
+C:\Users\Gkid\Desktop\The Files\NoyNoy\Visual Studio\Excursion\Excursion\obj\Debug\Excursion.csproj.GenerateResource.Cache
+C:\Users\Gkid\Desktop\The Files\NoyNoy\Visual Studio\Excursion\Excursion\obj\Debug\Excursion.exe
+C:\Users\Gkid\Desktop\The Files\NoyNoy\Visual Studio\Excursion\Excursion\obj\Debug\Excursion.pdb
+C:\Users\Gkid\Desktop\The Files\NoyNoy\Visual Studio\Excursion\Excursion\obj\Debug\Excursion.frmExcursionLogin.resources
+C:\Users\Gkid\Desktop\The Files\NoyNoy\Visual Studio\Excursion\Excursion\obj\Debug\Excursion.frmfirstpage.resources
+C:\Users\Gkid\Desktop\The Files\NoyNoy\Visual Studio\Excursion\Excursion\obj\Debug\Excursion.csprojResolveAssemblyReference.cache
+C:\Users\Gkid\Desktop\The Files\NoyNoy\Visual Studio\Excursion\Excursion\obj\Debug\Excursion.frmTransaction.resources
+C:\Users\Gkid\Desktop\The Files\NoyNoy\Visual Studio\Excursion\Excursion\obj\Debug\Excursion.frmManagerForm.resources
+G:\Excursion\Excursion\bin\Debug\Excursion.exe.config
+G:\Excursion\Excursion\obj\Debug\Excursion.exe
+G:\Excursion\Excursion\obj\Debug\Excursion.pdb
+F:\Excursion\Excursion\bin\Debug\Excursion.exe.config
+F:\Excursion\Excursion\obj\Debug\Excursion.exe
+F:\Excursion\Excursion\obj\Debug\Excursion.pdb
+F:\Excursion\Excursion\bin\Debug\Excursion.exe
+F:\Excursion\Excursion\bin\Debug\Excursion.pdb
+F:\Excursion\Excursion\obj\Debug\Excursion.csprojResolveAssemblyReference.cache
+F:\Excursion\Excursion\obj\Debug\Excursion.frmExcursionLogin.resources
+F:\Excursion\Excursion\obj\Debug\Excursion.frmfirstpage.resources
+F:\Excursion\Excursion\obj\Debug\Excursion.frmManagerForm.resources
+F:\Excursion\Excursion\obj\Debug\Excursion.Properties.Resources.resources
+F:\Excursion\Excursion\obj\Debug\Excursion.frmTransaction.resources
+F:\Excursion\Excursion\obj\Debug\Excursion.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\John Ellee\Excursion\Excursion\bin\Debug\Excursion.exe.config
+C:\Users\PC\Desktop\John Ellee\Excursion\Excursion\obj\Debug\Excursion.exe
+C:\Users\PC\Desktop\John Ellee\Excursion\Excursion\obj\Debug\Excursion.pdb
+C:\Users\PC\Desktop\John Ellee\Excursion\Excursion\bin\Debug\Excursion.exe
+C:\Users\PC\Desktop\John Ellee\Excursion\Excursion\bin\Debug\Excursion.pdb
+C:\Users\PC\Desktop\John Ellee\Excursion\Excursion\obj\Debug\Excursion.frmExcursionLogin.resources
+C:\Users\PC\Desktop\John Ellee\Excursion\Excursion\obj\Debug\Excursion.frmfirstpage.resources
+C:\Users\PC\Desktop\John Ellee\Excursion\Excursion\obj\Debug\Excursion.frmManagerForm.resources
+C:\Users\PC\Desktop\John Ellee\Excursion\Excursion\obj\Debug\Excursion.Properties.Resources.resources
+C:\Users\PC\Desktop\John Ellee\Excursion\Excursion\obj\Debug\Excursion.frmTransaction.resources
+C:\Users\PC\Desktop\John Ellee\Excursion\Excursion\obj\Debug\Excursion.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\John Ellee\Excursion\Excursion\obj\Debug\Excursion.csprojResolveAssemblyReference.cache
